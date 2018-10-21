@@ -22,4 +22,9 @@
 - (void)helloworld{
     
 }
+
+- (void)unsameaction{
+    
+    NSLog(@"unsame");
+}
 @end
