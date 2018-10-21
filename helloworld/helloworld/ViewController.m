@@ -19,13 +19,14 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-- (void)helloworld{
-    NSLog(@"hello word");
-}
-
 - (void)one_one{
     
 }
+
+- (void)helloword{
+    NSLog(@"hello word");
+}
+
 
 - (void)unsameaction{
     
