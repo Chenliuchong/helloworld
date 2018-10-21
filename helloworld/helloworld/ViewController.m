@@ -22,4 +22,8 @@
 - (void)helloworld{
     
 }
+
+- (void)one-one{
+    
+}
 @end
