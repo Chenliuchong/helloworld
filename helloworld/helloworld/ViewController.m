@@ -20,7 +20,7 @@
 }
 
 - (void)helloworld{
-    NSLog(@"hello world");
+    NSLog(@"hello word");
 }
 
 - (void)one_one{
