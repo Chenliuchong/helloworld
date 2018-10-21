@@ -23,7 +23,7 @@
     
 }
 
-- (void)one-one{
+- (void)one_one{
     
 }
 @end
